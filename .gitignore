@@ -310,5 +310,6 @@ $RECYCLE.BIN/
 
 # Custom
 temp/
+!*.spec
 
 # End of custom
